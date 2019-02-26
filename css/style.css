@@ -1,0 +1,28 @@
+
+#loader {
+	width: 80% ;
+	margin: auto;
+	text-align: center;
+}
+
+#label, h1 {
+	text-align: center;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 36pt;
+
+}
+
+#table {
+	display : none ;
+	text-align: center ;
+	font-size: larger;
+	margin: auto ;
+	width: 60% ;
+}
+
+#logo img {
+	bottom: 0px ;
+	right: 0px ;
+	width : 300px ;
+	position: absolute;
+}
